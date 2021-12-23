@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "name": "Ekmek",
+      "department": "Boşluk",
+      "salary": 6500,
+      "id": 105
+    },
+    {
+      "name": "Başar",
+      "department": "Yıldız",
+      "salary": 8500,
+      "id": 109
+    },
+    {
+      "name": "Ufuk",
+      "salary": "55000",
+      "department": "Rhyme",
+      "id": 110
+    },
+    {
+      "name": "selcukyazicii",
+      "salary": "44444",
+      "department": "mobile",
+      "id": 111
+    },
+    {
+      "name": "Celal Yılmaz",
+      "salary": "7500",
+      "department": "DB",
+      "id": 112
+    },
+    {
+      "name": "Selo",
+      "salary": "8888",
+      "department": "AAAA",
+      "id": 113
+    }
+  ]
+}
